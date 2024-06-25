@@ -1,0 +1,45 @@
+Todo APP
+
+setup express server : Done
+mongodb connection : Done
+
+set the view engine of express to EJS
+
+Register Page : Done
+Login Page  : Done
+
+Register API : Done
+Login API  : Done
+
+Session base auth : Done
+middleware to protect the API's : Done
+
+Dashboard Page
+logout
+logout from all devices
+
+Todo API's
+create API
+read API
+edit API
+delete API
+
+Dasboard Client (Axios)
+axios create API
+axios read API
+axios edit API
+axios delete API
+
+Pagination
+RateLimiting
+
+Email base Auth
+
+
+//create ejs page for home api, to redirect on register and login page
+
+//create Todo
+todo schema (todo, username) --> todoModel
+create api, POST /create-item
+data validation
+save it to DB
